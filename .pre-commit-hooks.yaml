@@ -3,4 +3,4 @@
     description: Run pylama linter on python files/directories.
     entry: pylama
     language: python
-    types: [text]
+    types: ["python"]
